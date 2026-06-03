@@ -45,14 +45,14 @@
 
 <div align="center">
 
-<img height="180em" width="430em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ankupriyam&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" width="350em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ankupriyam&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" width="430em" src="https://github-readme-stats.shion.dev/api?username=Ankupriyam&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180em" width="350em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ankupriyam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 
 </div>
 
 <div align="center">
 
-<img height="180em" width="500em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ankupriyam&theme=tokyonight&hide_border=true"/>
+<img height="180em" width="500em" src="https://streak-stats.demolab.com/?user=Ankupriyam&theme=dark&hide_border=true"/>
 
 </div>
 
