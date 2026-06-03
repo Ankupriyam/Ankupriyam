@@ -45,15 +45,14 @@
 
 <div align="center">
 
-<img height="200em" width="500em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ankupriyam&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="200em" width="500em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ankupriyam&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" width="430em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ankupriyam&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" width="350em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ankupriyam&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-<img height="200em" width="500em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ankupriyam&theme=tokyonight&hide_border=true"/>
+<img height="180em" width="500em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ankupriyam&theme=tokyonight&hide_border=true"/>
 
 </div>
 
