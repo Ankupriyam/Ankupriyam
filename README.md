@@ -46,7 +46,7 @@
 <div align="center">
 
 <img height="180em" width="430em" src="https://github-readme-stats.shion.dev/api?username=Ankupriyam&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="180em" width="350em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ankupriyam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+<img height="180em" width="350em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ankupriyam&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
 
 </div>
 
@@ -60,8 +60,8 @@
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anku-priyam/) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anku.priyam@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anku-priyam/) 
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anku.priyam@gmail.com) 
 
 ---
 
