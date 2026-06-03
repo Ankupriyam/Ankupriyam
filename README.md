@@ -21,7 +21,9 @@
 # 🏆 Achievements
 
 📈 **LeetCode Rating:** ~1900+
+
 📈 **Codeforces Rating:** ~1300+
+
 📈 **Codechef Rating:** ~1650+
 
 ---
@@ -43,27 +45,30 @@
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ankupriyam&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="200em" width="500em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ankupriyam&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ankupriyam&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="200em" width="500em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ankupriyam&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankupriyam&theme=tokyonight&hide_border=true"/>
+<img height="200em" width="500em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ankupriyam&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
 ## 🌐 Socials:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anku-priyam/) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anku.priyam@gmail.com) 
 
 ---
 
 <div align="center">
+ 
+ *I enjoy tackling challenging algorithmic problems and participating in competitive programming contests.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
 
