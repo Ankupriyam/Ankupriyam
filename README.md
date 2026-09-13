@@ -20,9 +20,9 @@
 
 # 🏆 Achievements
 
-📈 **LeetCode Rating:** ~1900+
+📈 **LeetCode Rating:** ~1950+
 
-📈 **Codeforces Rating:** ~1300+
+📈 **Codeforces Rating:** ~1400+
 
 📈 **Codechef Rating:** ~1650+
 
