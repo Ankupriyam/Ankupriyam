@@ -11,6 +11,7 @@
 # 👨‍💻 About Me
 
 * MnC Student at NIT Kurukshetra
+* 🎓 **CGPA: 9.66**
 * 💻 Competitive Programmer
 * 🌱 Currently learning Web Development
 * 🎯 Interested in Software Development and Problem Solving
@@ -19,6 +20,8 @@
 ---
 
 # 🏆 Achievements
+
+🏆 **ICPC Prelims 2026:** Secured **749th rank globally** and **3rd rank in college**.
 
 📈 **LeetCode Rating:** ~2000+
 
